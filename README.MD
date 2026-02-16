@@ -45,18 +45,7 @@ sudo apt-get install build-essential libxine2-dev libxxf86vm-dev libxsk-dev libg
 * Fullscreen: Drücken Sie F11, um zwischen Fenster- und Vollbildmodus zu wechseln. Escape beendet die Slideshow.
 * Slideshow: Über den Button "Slideshow" öffnet sich ein Dialog. Dort können Sie Wildcard-Filter (z.B. "IMG_2025*") und das Zeitintervall festlegen.
 
----
 
-## Screenshots
-
-[Image Placeholder: Main_Interface_Overview]
-Abbildung 1: Die Hauptoberfläche mit dem Explorer-Baum, der Dateiliste und den Steuerungselementen für Rotation, Umbenennung und Löschvorgänge.
-
-[Image Placeholder: Slideshow_Settings_Dialog]
-Abbildung 2: Der Konfigurationsdialog für die Slideshow mit Filter-Eingabe, Intervalls-Spin-Gadget und Randomize-Option.
-
-[Image Placeholder: Fullscreen_Preview_Mode]
-Abbildung 3: Der rahmenlose Vollbildmodus inklusive halbtransparentem Status-Overlay am unteren Bildschirmrand, das den Fortschritt der Slideshow visualisiert.
 
 ---
 

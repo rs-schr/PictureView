@@ -1,6 +1,8 @@
 # PureImage Browser
 
 Ein performanter, leichtgewichtiger und plattformunabhängiger Bildbetrachter, entwickelt mit PureBasic 6.21. Die Software bietet eine flüssige Benutzererfahrung durch asynchrone Hintergrundverarbeitung und optimierte Darstellung auf mehreren Monitoren.
+Es wurde in erster Linie entwickelt um Bilder auf einenm externen Monitor bzw. Beamer zu präsentieren.
+
 
 ## Inhaltsverzeichnis
 1. Features
@@ -63,5 +65,5 @@ sudo apt-get install build-essential libxine2-dev libxxf86vm-dev libxsk-dev libg
 ---
 
 ## Lizenz
-Dieses Projekt wurde für die effiziente Bildverwaltung unter Linux und Windows optimiert.
+Dieses Projekt wurde für die effiziente Bildpräsentation unter Linux und Windows optimiert.
 

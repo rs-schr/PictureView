@@ -3,7 +3,6 @@
 Ein performanter, leichtgewichtiger und plattformunabhängiger Bildbetrachter, entwickelt mit PureBasic 6.21. Die Software bietet eine flüssige Benutzererfahrung durch asynchrone Hintergrundverarbeitung und optimierte Darstellung auf mehreren Monitoren.
 Es wurde in erster Linie entwickelt um Bilder auf einenm externen Monitor bzw. Beamer zu präsentieren.
 
-
 ## Inhaltsverzeichnis
 1. Features
 2. Technische Logik
